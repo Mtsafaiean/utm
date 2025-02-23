@@ -1,2 +1,2 @@
 # utm
-utm builder - based on best practice for GA4
+utm builder - based on best practice for ga4
